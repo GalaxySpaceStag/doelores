@@ -11,8 +11,7 @@ Araneas are intelligent shapechanging spiderfolk, less exploitative than doppelg
 **Alignment.** Most aranea are neutral in alignment, though most other people consider them to be evil.  
 **Size.** Araneas range from under 7 to over 8 feet tall. Your size is Medium.  
 **Speed.** Your base walking speed is 30 feet.  
-**Arachnid Resilience.** You have advantage on saving throws against poison, and you have resistance against  
-  poison damage.  
+**Arachnid Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.  
 **Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.  
 **Languages.** You can speak, read, and write Common, Sylvan and  you can communicate with spiders.  
 **Poisonous Bite.** You are never unarmed. You are proficient with your bite, which are a melee weapon that deals 1d4 poison damage.  
