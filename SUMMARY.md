@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Magic Items
+
+* [Berserker Armor](magic-items/berserker-armor.md)
+
 ## Races
 
 * [Aranea](races/aranea.md)
