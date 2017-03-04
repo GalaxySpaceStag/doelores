@@ -11,7 +11,7 @@ Centaurs generally lived in tribal hunter-gatherer societies. They had good rela
 **Alignment.** Most centaurs are neutral and rarely choose sides when it comes to law and chaos. Tribal leaders and warriors might be lawful, while explorers and adventurers might tend toward chaotic.  
 **Size.** Centaurs are between 7 and 8 feet tall and weigh around 2,000 pounds. Your size is Medium  
 **Speed.** Your base walking speed is 40 feet.  
-**Equine Build.** Because of your body structure, you cannot easily ride another animal as a steed. Rather, you are considered to be mounted without the ability to dismount. But you may mount a steed that can support you. Additionally, the arms of your upperbody limits you to only wield medium or smaller sized weapons.  
+**Equine Build.** Because of your body structure, you cannot easily ride another animal as a steed. Rather, you are considered to be mounted without the ability to dismount. But you may mount a steed that can support you.  
 **Hooves.** Your hooves are a natural weapon, which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning damage equal to 1d6 + your Strenght modifier, instead of the bludgeoning damage normal for an unarmed strike.  
 **Cavalier.** You can serve as a mount for any Medium creature or smaller.  
 **Charger.** If you move at least 30 feet immediately before making a melee weapon attack, your attack deals an extra 1d6 damage on a hit.  
