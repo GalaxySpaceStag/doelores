@@ -5,4 +5,5 @@
 ## Races
 
 * [Aranea](races/aranea.md)
+* [Centaur](races/centaur.md)
 
